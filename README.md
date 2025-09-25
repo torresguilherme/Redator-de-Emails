@@ -1,4 +1,4 @@
-#🤖 Assistente de E-mail Inteligente com n8n e OpenAI# 
+🤖 Assistente de E-mail Inteligente com n8n e OpenAI
 Este projeto é um fluxo de trabalho (workflow) avançado construído na plataforma n8n, projetado para funcionar como um assistente de e-mail inteligente. Ele monitora uma caixa de entrada do Gmail, utiliza um modelo de linguagem da OpenAI para classificar se o remetente é um cliente e, em caso afirmativo, usa um agente de IA para redigir uma resposta e salvá-la como rascunho para revisão humana.
 
 ✨ Visão Geral do Fluxo
